@@ -22,6 +22,7 @@ TOPICWISE QUESTIONS lAUDA BC
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/PiyushVerma4747/DSA/tree/main/0202-happy-number/) | Easy |
+| [3870-count-commas-in-range](https://github.com/PiyushVerma4747/DSA/tree/main/3870-count-commas-in-range/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/PiyushVerma4747/DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
