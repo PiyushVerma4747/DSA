@@ -48,6 +48,7 @@ TOPICWISE QUESTIONS lAUDA BC
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0010-regular-expression-matching](https://github.com/PiyushVerma4747/DSA/tree/main/0010-regular-expression-matching/) | Hard |
 | [0055-jump-game](https://github.com/PiyushVerma4747/DSA/tree/main/0055-jump-game/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -58,4 +59,12 @@ TOPICWISE QUESTIONS lAUDA BC
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2951-find-the-peaks](https://github.com/PiyushVerma4747/DSA/tree/main/2951-find-the-peaks/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0010-regular-expression-matching](https://github.com/PiyushVerma4747/DSA/tree/main/0010-regular-expression-matching/) | Hard |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0010-regular-expression-matching](https://github.com/PiyushVerma4747/DSA/tree/main/0010-regular-expression-matching/) | Hard |
 <!---LeetCode Topics End-->
