@@ -9,6 +9,7 @@ TOPICWISE QUESTIONS lAUDA BC
 | [0001-two-sum](https://github.com/PiyushVerma4747/DSA/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/PiyushVerma4747/DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0055-jump-game](https://github.com/PiyushVerma4747/DSA/tree/main/0055-jump-game/) | Medium |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/PiyushVerma4747/DSA/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0575-distribute-candies](https://github.com/PiyushVerma4747/DSA/tree/main/0575-distribute-candies/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/PiyushVerma4747/DSA/tree/main/0905-sort-array-by-parity/) | Easy |
 | [2951-find-the-peaks](https://github.com/PiyushVerma4747/DSA/tree/main/2951-find-the-peaks/) | Easy |
@@ -67,4 +68,8 @@ TOPICWISE QUESTIONS lAUDA BC
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/PiyushVerma4747/DSA/tree/main/0010-regular-expression-matching/) | Hard |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/PiyushVerma4747/DSA/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 <!---LeetCode Topics End-->
