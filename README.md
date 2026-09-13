@@ -8,6 +8,7 @@ TOPICWISE QUESTIONS lAUDA BC
 | ------- | ------- |
 | [0001-two-sum](https://github.com/PiyushVerma4747/DSA/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/PiyushVerma4747/DSA/tree/main/0011-container-with-most-water/) | Medium |
+| [0042-trapping-rain-water](https://github.com/PiyushVerma4747/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0055-jump-game](https://github.com/PiyushVerma4747/DSA/tree/main/0055-jump-game/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/PiyushVerma4747/DSA/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0575-distribute-candies](https://github.com/PiyushVerma4747/DSA/tree/main/0575-distribute-candies/) | Easy |
@@ -32,6 +33,7 @@ TOPICWISE QUESTIONS lAUDA BC
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/PiyushVerma4747/DSA/tree/main/0011-container-with-most-water/) | Medium |
+| [0042-trapping-rain-water](https://github.com/PiyushVerma4747/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0202-happy-number](https://github.com/PiyushVerma4747/DSA/tree/main/0202-happy-number/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/PiyushVerma4747/DSA/tree/main/0905-sort-array-by-parity/) | Easy |
 ## Floyd's Cycle Finding Algorithm
@@ -50,6 +52,7 @@ TOPICWISE QUESTIONS lAUDA BC
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/PiyushVerma4747/DSA/tree/main/0010-regular-expression-matching/) | Hard |
+| [0042-trapping-rain-water](https://github.com/PiyushVerma4747/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0055-jump-game](https://github.com/PiyushVerma4747/DSA/tree/main/0055-jump-game/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -72,4 +75,12 @@ TOPICWISE QUESTIONS lAUDA BC
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/PiyushVerma4747/DSA/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/PiyushVerma4747/DSA/tree/main/0042-trapping-rain-water/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/PiyushVerma4747/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
