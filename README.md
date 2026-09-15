@@ -11,6 +11,7 @@ TOPICWISE QUESTIONS lAUDA BC
 | [0042-trapping-rain-water](https://github.com/PiyushVerma4747/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0055-jump-game](https://github.com/PiyushVerma4747/DSA/tree/main/0055-jump-game/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/PiyushVerma4747/DSA/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0506-relative-ranks](https://github.com/PiyushVerma4747/DSA/tree/main/0506-relative-ranks/) | Easy |
 | [0575-distribute-candies](https://github.com/PiyushVerma4747/DSA/tree/main/0575-distribute-candies/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/PiyushVerma4747/DSA/tree/main/0905-sort-array-by-parity/) | Easy |
 | [2951-find-the-peaks](https://github.com/PiyushVerma4747/DSA/tree/main/2951-find-the-peaks/) | Easy |
@@ -43,6 +44,7 @@ TOPICWISE QUESTIONS lAUDA BC
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0506-relative-ranks](https://github.com/PiyushVerma4747/DSA/tree/main/0506-relative-ranks/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/PiyushVerma4747/DSA/tree/main/0905-sort-array-by-parity/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -83,4 +85,8 @@ TOPICWISE QUESTIONS lAUDA BC
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/PiyushVerma4747/DSA/tree/main/0042-trapping-rain-water/) | Hard |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0506-relative-ranks](https://github.com/PiyushVerma4747/DSA/tree/main/0506-relative-ranks/) | Easy |
 <!---LeetCode Topics End-->
