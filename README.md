@@ -27,6 +27,7 @@ TOPICWISE QUESTIONS lAUDA BC
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/PiyushVerma4747/DSA/tree/main/0202-happy-number/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/PiyushVerma4747/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [3870-count-commas-in-range](https://github.com/PiyushVerma4747/DSA/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/PiyushVerma4747/DSA/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/PiyushVerma4747/DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -61,6 +62,7 @@ TOPICWISE QUESTIONS lAUDA BC
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/PiyushVerma4747/DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0055-jump-game](https://github.com/PiyushVerma4747/DSA/tree/main/0055-jump-game/) | Medium |
+| [1903-largest-odd-number-in-string](https://github.com/PiyushVerma4747/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -69,6 +71,7 @@ TOPICWISE QUESTIONS lAUDA BC
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/PiyushVerma4747/DSA/tree/main/0010-regular-expression-matching/) | Hard |
+| [1903-largest-odd-number-in-string](https://github.com/PiyushVerma4747/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
