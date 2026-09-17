@@ -14,6 +14,7 @@ TOPICWISE QUESTIONS lAUDA BC
 | [0506-relative-ranks](https://github.com/PiyushVerma4747/DSA/tree/main/0506-relative-ranks/) | Easy |
 | [0575-distribute-candies](https://github.com/PiyushVerma4747/DSA/tree/main/0575-distribute-candies/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/PiyushVerma4747/DSA/tree/main/0905-sort-array-by-parity/) | Easy |
+| [2784-check-if-array-is-good](https://github.com/PiyushVerma4747/DSA/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2951-find-the-peaks](https://github.com/PiyushVerma4747/DSA/tree/main/2951-find-the-peaks/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/PiyushVerma4747/DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/PiyushVerma4747/DSA/tree/main/3903-smallest-stable-index-i/) | Easy |
@@ -23,6 +24,7 @@ TOPICWISE QUESTIONS lAUDA BC
 | [0001-two-sum](https://github.com/PiyushVerma4747/DSA/tree/main/0001-two-sum/) | Easy |
 | [0202-happy-number](https://github.com/PiyushVerma4747/DSA/tree/main/0202-happy-number/) | Easy |
 | [0575-distribute-candies](https://github.com/PiyushVerma4747/DSA/tree/main/0575-distribute-candies/) | Easy |
+| [2784-check-if-array-is-good](https://github.com/PiyushVerma4747/DSA/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -47,6 +49,7 @@ TOPICWISE QUESTIONS lAUDA BC
 | ------- | ------- |
 | [0506-relative-ranks](https://github.com/PiyushVerma4747/DSA/tree/main/0506-relative-ranks/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/PiyushVerma4747/DSA/tree/main/0905-sort-array-by-parity/) | Easy |
+| [2784-check-if-array-is-good](https://github.com/PiyushVerma4747/DSA/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
