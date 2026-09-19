@@ -29,6 +29,7 @@ TOPICWISE QUESTIONS lAUDA BC
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/PiyushVerma4747/DSA/tree/main/0202-happy-number/) | Easy |
+| [1401-circle-and-rectangle-overlapping](https://github.com/PiyushVerma4747/DSA/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/PiyushVerma4747/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [3870-count-commas-in-range](https://github.com/PiyushVerma4747/DSA/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/PiyushVerma4747/DSA/tree/main/3871-count-commas-in-range-ii/) | Medium |
@@ -95,4 +96,8 @@ TOPICWISE QUESTIONS lAUDA BC
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0506-relative-ranks](https://github.com/PiyushVerma4747/DSA/tree/main/0506-relative-ranks/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/PiyushVerma4747/DSA/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 <!---LeetCode Topics End-->
