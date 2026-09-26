@@ -24,6 +24,7 @@ TOPICWISE QUESTIONS lAUDA BC
 | [0001-two-sum](https://github.com/PiyushVerma4747/DSA/tree/main/0001-two-sum/) | Easy |
 | [0202-happy-number](https://github.com/PiyushVerma4747/DSA/tree/main/0202-happy-number/) | Easy |
 | [0409-longest-palindrome](https://github.com/PiyushVerma4747/DSA/tree/main/0409-longest-palindrome/) | Easy |
+| [0438-find-all-anagrams-in-a-string](https://github.com/PiyushVerma4747/DSA/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0575-distribute-candies](https://github.com/PiyushVerma4747/DSA/tree/main/0575-distribute-candies/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/PiyushVerma4747/DSA/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Math
@@ -79,6 +80,7 @@ TOPICWISE QUESTIONS lAUDA BC
 | [0010-regular-expression-matching](https://github.com/PiyushVerma4747/DSA/tree/main/0010-regular-expression-matching/) | Hard |
 | [0409-longest-palindrome](https://github.com/PiyushVerma4747/DSA/tree/main/0409-longest-palindrome/) | Easy |
 | [0434-number-of-segments-in-a-string](https://github.com/PiyushVerma4747/DSA/tree/main/0434-number-of-segments-in-a-string/) | Easy |
+| [0438-find-all-anagrams-in-a-string](https://github.com/PiyushVerma4747/DSA/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/PiyushVerma4747/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -104,4 +106,8 @@ TOPICWISE QUESTIONS lAUDA BC
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/PiyushVerma4747/DSA/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/PiyushVerma4747/DSA/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 <!---LeetCode Topics End-->
