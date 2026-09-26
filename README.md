@@ -78,6 +78,7 @@ TOPICWISE QUESTIONS lAUDA BC
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/PiyushVerma4747/DSA/tree/main/0010-regular-expression-matching/) | Hard |
 | [0409-longest-palindrome](https://github.com/PiyushVerma4747/DSA/tree/main/0409-longest-palindrome/) | Easy |
+| [0434-number-of-segments-in-a-string](https://github.com/PiyushVerma4747/DSA/tree/main/0434-number-of-segments-in-a-string/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/PiyushVerma4747/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
