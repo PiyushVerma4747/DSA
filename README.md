@@ -11,6 +11,7 @@ TOPICWISE QUESTIONS lAUDA BC
 | [0042-trapping-rain-water](https://github.com/PiyushVerma4747/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0055-jump-game](https://github.com/PiyushVerma4747/DSA/tree/main/0055-jump-game/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/PiyushVerma4747/DSA/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/PiyushVerma4747/DSA/tree/main/0363-max-sum-of-rectangle-no-larger-than-k/) | Hard |
 | [0506-relative-ranks](https://github.com/PiyushVerma4747/DSA/tree/main/0506-relative-ranks/) | Easy |
 | [0575-distribute-candies](https://github.com/PiyushVerma4747/DSA/tree/main/0575-distribute-candies/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/PiyushVerma4747/DSA/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -56,6 +57,7 @@ TOPICWISE QUESTIONS lAUDA BC
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/PiyushVerma4747/DSA/tree/main/0363-max-sum-of-rectangle-no-larger-than-k/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/PiyushVerma4747/DSA/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -90,6 +92,7 @@ TOPICWISE QUESTIONS lAUDA BC
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/PiyushVerma4747/DSA/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/PiyushVerma4747/DSA/tree/main/0363-max-sum-of-rectangle-no-larger-than-k/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -110,4 +113,12 @@ TOPICWISE QUESTIONS lAUDA BC
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/PiyushVerma4747/DSA/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/PiyushVerma4747/DSA/tree/main/0363-max-sum-of-rectangle-no-larger-than-k/) | Hard |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/PiyushVerma4747/DSA/tree/main/0363-max-sum-of-rectangle-no-larger-than-k/) | Hard |
 <!---LeetCode Topics End-->
