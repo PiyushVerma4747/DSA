@@ -32,6 +32,7 @@ TOPICWISE QUESTIONS lAUDA BC
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/PiyushVerma4747/DSA/tree/main/0202-happy-number/) | Easy |
+| [1025-divisor-game](https://github.com/PiyushVerma4747/DSA/tree/main/1025-divisor-game/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/PiyushVerma4747/DSA/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/PiyushVerma4747/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [3870-count-commas-in-range](https://github.com/PiyushVerma4747/DSA/tree/main/3870-count-commas-in-range/) | Easy |
@@ -65,6 +66,7 @@ TOPICWISE QUESTIONS lAUDA BC
 | [0010-regular-expression-matching](https://github.com/PiyushVerma4747/DSA/tree/main/0010-regular-expression-matching/) | Hard |
 | [0042-trapping-rain-water](https://github.com/PiyushVerma4747/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0055-jump-game](https://github.com/PiyushVerma4747/DSA/tree/main/0055-jump-game/) | Medium |
+| [1025-divisor-game](https://github.com/PiyushVerma4747/DSA/tree/main/1025-divisor-game/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -121,4 +123,16 @@ TOPICWISE QUESTIONS lAUDA BC
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/PiyushVerma4747/DSA/tree/main/0363-max-sum-of-rectangle-no-larger-than-k/) | Hard |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1025-divisor-game](https://github.com/PiyushVerma4747/DSA/tree/main/1025-divisor-game/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1025-divisor-game](https://github.com/PiyushVerma4747/DSA/tree/main/1025-divisor-game/) | Easy |
+## Impartial Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1025-divisor-game](https://github.com/PiyushVerma4747/DSA/tree/main/1025-divisor-game/) | Easy |
 <!---LeetCode Topics End-->
