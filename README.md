@@ -19,6 +19,7 @@ TOPICWISE QUESTIONS lAUDA BC
 | [2951-find-the-peaks](https://github.com/PiyushVerma4747/DSA/tree/main/2951-find-the-peaks/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/PiyushVerma4747/DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/PiyushVerma4747/DSA/tree/main/3903-smallest-stable-index-i/) | Easy |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/PiyushVerma4747/DSA/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
