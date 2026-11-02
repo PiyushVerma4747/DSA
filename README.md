@@ -32,6 +32,7 @@ TOPICWISE QUESTIONS lAUDA BC
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/PiyushVerma4747/DSA/tree/main/0009-palindrome-number/) | Easy |
 | [0202-happy-number](https://github.com/PiyushVerma4747/DSA/tree/main/0202-happy-number/) | Easy |
 | [1025-divisor-game](https://github.com/PiyushVerma4747/DSA/tree/main/1025-divisor-game/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/PiyushVerma4747/DSA/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
